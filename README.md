@@ -1,6 +1,13 @@
 # Aood-Food-Recipe-App-React-Native
 
-![Image]('')
+mobile app for tasty recipes. User-friendly and stylish, it offers a variety of dishes With Continuously renewing the content The application has been developed using React Native and several libraries.
+
+
+![first one](https://github.com/daha40/Aood-Food-Recipe-App-React-Native/assets/64675525/c1f21119-f9a6-4e30-9ad8-2c4066f33265)
+![istockphoto-1292096209-612x612](https://github.com/daha40/Aood-Food-Recipe-App-React-Native/assets/64675525/24866d26-2ec3-4450-a0a9-05e6ee7c5be0)
+![firstone](https://github.com/daha40/Aood-Food-Recipe-App-React-Native/assets/64675525/e73b2a44-366b-44f7-80a0-a60b1e2474d4)
+![fdsfdsf](https://github.com/daha40/Aood-Food-Recipe-App-React-Native/assets/64675525/2b665933-e4f5-400b-a88f-09366b77740e)
+
 
   
 
